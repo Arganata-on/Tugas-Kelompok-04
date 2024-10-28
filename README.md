@@ -1,9 +1,9 @@
 # 📝 Tugas Kelompok 04 String
-- 👤**M. NAUFAL ABBAD MU'AFA RIZQULLAH** - 24104410049
 - 👤**HANDIKA RADO ARGANΑΤΑ** - 24104410051
-- 👤**FIRLIAN FIRMAN SYAH** - 24104410057
 - 👤**DIMAS SURYA WISMOADY** - 24104410061
 - 👤**ILHAM AGUSTIANO HANEADI** - 24104410085
+- 👤**M. NAUFAL ABBAD MU'AFA RIZQULLAH** - 24104410049
+- 👤**FIRLIAN FIRMAN SYAH** - 24104410057
 ## 📘 Pendahuluan
 Program ini merupakan aplikasi sederhana untuk mengecek apakah sebuah kata adalah palindrom. Kata palindrom adalah kata yang dibaca dari depan atau belakang tetap sama.
 
